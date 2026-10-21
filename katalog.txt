@@ -1,0 +1,8 @@
+Jenis          Kode    Judul                      Tahun  Layak Pinjam  
+-----------------------------------------------------------------------
+BukuCetak      BK-002  Basis Data Relasional       2021  Tidak         
+BukuCetak      BK-001  Java How to Program         2022  Ya            
+BerkasDigital  BD-001  Panduan Pemrograman Java    2024  Ya            
+BerkasDigital  BD-002  Jurnal Rekayasa Perangkat   2025  Ya            
+Majalah        MJ-002  Info Teknologi Edisi 87     2026  Ya            
+Majalah        MJ-001  Info Teknologi Edisi 88     2026  Tidak         
